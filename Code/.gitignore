@@ -1,0 +1,16 @@
+# Archivos de datos
+*.csv
+*.xlsx
+*.xls
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+
+# Directorios de entornos virtuales
+EAE_env/
+
+# Deja de compartir la carpeta Data
+data/
+requirements.txt
